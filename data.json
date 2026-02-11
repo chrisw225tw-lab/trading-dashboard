@@ -1,0 +1,2507 @@
+{
+  "last_updated": "2026-02-12T07:20:01.892915",
+  "summary": {
+    "total_decisions": 323,
+    "total_trades": 0,
+    "total_holds": 323,
+    "win_rate": 0,
+    "total_pnl": 0
+  },
+  "latest_state": {
+    "timestamp": "2026-02-12T05:00:17.745690",
+    "spy_price": 691.81,
+    "sentiment_score": 20,
+    "news_headline": "Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Recession odds fade according to prediction markets | Seeking Alpha"
+  },
+  "recent_decisions": [
+    {
+      "timestamp": "2026-02-12T05:00:17.745780",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=691.81, Open=692.36, Momentum=-0.079%, Volume=50069, Sentiment=20/100, Headlines=Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:59:18.870455",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=692.34, Open=692.47, Momentum=-0.019%, Volume=20114, Sentiment=20/100, Headlines=Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:58:16.266995",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=692.49, Open=692.39, Momentum=0.014%, Volume=13343, Sentiment=20/100, Headlines=Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:55:15.383399",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=692.71, Open=692.80, Momentum=-0.013%, Volume=9281, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:54:13.017224",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=692.82, Open=692.57, Momentum=0.036%, Volume=7787, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:53:18.930089",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=692.56, Open=692.27, Momentum=0.042%, Volume=4972, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:52:16.460651",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=692.29, Open=692.32, Momentum=-0.004%, Volume=8222, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:51:13.897884",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=692.32, Open=692.92, Momentum=-0.087%, Volume=12216, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:50:15.534187",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=692.95, Open=692.85, Momentum=0.014%, Volume=3832, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:49:19.686530",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=692.84, Open=692.53, Momentum=0.045%, Volume=6529, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:48:20.525988",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=692.55, Open=692.53, Momentum=0.003%, Volume=5467, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:45:18.737237",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=692.49, Open=692.58, Momentum=-0.012%, Volume=2483, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:44:15.845210",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=692.64, Open=692.58, Momentum=0.009%, Volume=2458, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:43:22.984904",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=692.61, Open=692.60, Momentum=0.001%, Volume=3371, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:42:23.378557",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=692.63, Open=692.84, Momentum=-0.030%, Volume=2390, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:41:17.447378",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=692.90, Open=692.61, Momentum=0.042%, Volume=4138, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:40:14.095581",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=692.56, Open=692.25, Momentum=0.046%, Volume=3004, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:35:19.748987",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=691.98, Open=692.00, Momentum=-0.002%, Volume=5251, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:34:16.280065",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=691.98, Open=692.20, Momentum=-0.032%, Volume=4115, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:33:21.554699",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=692.16, Open=692.16, Momentum=0.001%, Volume=5260, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:32:14.491200",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=692.15, Open=692.10, Momentum=0.007%, Volume=9025, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:31:18.640982",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=692.14, Open=692.21, Momentum=-0.010%, Volume=9564, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:30:21.241248",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=692.26, Open=692.46, Momentum=-0.029%, Volume=6401, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:29:16.040564",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=692.45, Open=692.57, Momentum=-0.017%, Volume=2013, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:28:13.834380",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=692.57, Open=692.62, Momentum=-0.007%, Volume=1770, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:27:19.114582",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=692.66, Open=692.69, Momentum=-0.004%, Volume=1588, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:25:18.019442",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=692.63, Open=692.76, Momentum=-0.019%, Volume=3751, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:24:18.250394",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=692.71, Open=692.53, Momentum=0.026%, Volume=1603, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:23:15.686762",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=692.52, Open=692.49, Momentum=0.005%, Volume=2249, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:22:16.380587",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=692.61, Open=692.75, Momentum=-0.020%, Volume=3973, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:21:21.860243",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=692.72, Open=692.71, Momentum=0.001%, Volume=2927, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:20:17.804500",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=692.74, Open=692.78, Momentum=-0.006%, Volume=2265, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:19:15.209080",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=692.78, Open=692.79, Momentum=-0.001%, Volume=2768, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:18:17.500362",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=692.78, Open=692.93, Momentum=-0.022%, Volume=1543, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:15:18.542782",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=692.75, Open=692.82, Momentum=-0.010%, Volume=1643, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:14:15.497278",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=692.85, Open=692.72, Momentum=0.019%, Volume=2188, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:13:19.243365",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=692.73, Open=692.82, Momentum=-0.013%, Volume=2114, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:12:16.798841",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=692.84, Open=692.79, Momentum=0.007%, Volume=1562, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis (DGS10) | FRED | St. Louis Fed"
+    },
+    {
+      "timestamp": "2026-02-12T04:05:16.072791",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=693.02, Open=693.05, Momentum=-0.004%, Volume=1619, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:04:16.815196",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=693.03, Open=692.99, Momentum=0.006%, Volume=1739, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T04:03:17.004927",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=692.96, Open=693.00, Momentum=-0.006%, Volume=810, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T03:55:19.968138",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=693.00, Open=692.97, Momentum=0.004%, Volume=566, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T03:54:14.330438",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=693.04, Open=693.10, Momentum=-0.009%, Volume=1020, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T03:53:15.673726",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=693.12, Open=693.08, Momentum=0.006%, Volume=1932, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T03:52:16.219348",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=693.09, Open=693.14, Momentum=-0.007%, Volume=1829, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T03:51:16.566432",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=693.07, Open=693.16, Momentum=-0.013%, Volume=1176, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T03:45:16.451481",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=693.75, Open=693.51, Momentum=0.035%, Volume=759, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T03:44:16.047068",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=693.60, Open=693.58, Momentum=0.003%, Volume=683, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T03:43:16.532672",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=693.58, Open=693.53, Momentum=0.006%, Volume=1202, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    },
+    {
+      "timestamp": "2026-02-12T03:42:15.992676",
+      "signal": "HOLD",
+      "confidence": 50,
+      "reasoning": "Negative news sentiment (20/100) | Snapshot: SPY=693.49, Open=693.59, Momentum=-0.015%, Volume=846, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha"
+    }
+  ],
+  "trades": [
+    {
+      "timestamp": "2026-02-12T05:00:17.729937",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 691.81,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=691.81, Open=692.36, Momentum=-0.079%, Volume=50069, Sentiment=20/100, Headlines=Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:59:18.854951",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.34,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.34, Open=692.47, Momentum=-0.019%, Volume=20114, Sentiment=20/100, Headlines=Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:58:16.251147",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.49,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.49, Open=692.39, Momentum=0.014%, Volume=13343, Sentiment=20/100, Headlines=Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:55:15.357948",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.71,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.71, Open=692.80, Momentum=-0.013%, Volume=9281, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:54:12.997789",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.815,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.82, Open=692.57, Momentum=0.036%, Volume=7787, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:53:18.914521",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.56,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.56, Open=692.27, Momentum=0.042%, Volume=4972, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:52:16.435290",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.29,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.29, Open=692.32, Momentum=-0.004%, Volume=8222, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:51:13.882462",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.315,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.32, Open=692.92, Momentum=-0.087%, Volume=12216, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:50:15.511989",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.95,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.95, Open=692.85, Momentum=0.014%, Volume=3832, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:49:19.664174",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.84,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.84, Open=692.53, Momentum=0.045%, Volume=6529, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:48:20.510625",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.55,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.55, Open=692.53, Momentum=0.003%, Volume=5467, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:45:18.717768",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.49,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.49, Open=692.58, Momentum=-0.012%, Volume=2483, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:44:15.819746",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.64,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.64, Open=692.58, Momentum=0.009%, Volume=2458, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:43:22.969420",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.61,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.61, Open=692.60, Momentum=0.001%, Volume=3371, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:42:23.363003",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.63,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.63, Open=692.84, Momentum=-0.030%, Volume=2390, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:41:17.431050",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.9,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.90, Open=692.61, Momentum=0.042%, Volume=4138, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:40:14.080050",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.56,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.56, Open=692.25, Momentum=0.046%, Volume=3004, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:35:19.732752",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 691.98,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=691.98, Open=692.00, Momentum=-0.002%, Volume=5251, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:34:16.264496",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 691.98,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=691.98, Open=692.20, Momentum=-0.032%, Volume=4115, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:33:21.535370",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.165,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.16, Open=692.16, Momentum=0.001%, Volume=5260, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:32:14.475711",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.15,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.15, Open=692.10, Momentum=0.007%, Volume=9025, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:31:18.625417",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.14,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.14, Open=692.21, Momentum=-0.010%, Volume=9564, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:30:21.225918",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.26,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.26, Open=692.46, Momentum=-0.029%, Volume=6401, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:29:16.024657",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.45,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.45, Open=692.57, Momentum=-0.017%, Volume=2013, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:28:13.818822",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.57,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.57, Open=692.62, Momentum=-0.007%, Volume=1770, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:27:19.098410",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.66,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.66, Open=692.69, Momentum=-0.004%, Volume=1588, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:25:18.003917",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.63,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.63, Open=692.76, Momentum=-0.019%, Volume=3751, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:24:18.234665",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.71,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.71, Open=692.53, Momentum=0.026%, Volume=1603, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:23:15.661283",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.52,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.52, Open=692.49, Momentum=0.005%, Volume=2249, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:22:16.365104",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.61,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.61, Open=692.75, Momentum=-0.020%, Volume=3973, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:21:21.834928",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.715,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.72, Open=692.71, Momentum=0.001%, Volume=2927, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:20:17.788664",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.74,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.74, Open=692.78, Momentum=-0.006%, Volume=2265, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:19:15.183605",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.785,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.78, Open=692.79, Momentum=-0.001%, Volume=2768, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:18:17.484025",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.78,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.78, Open=692.93, Momentum=-0.022%, Volume=1543, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:15:18.527378",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.75,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.75, Open=692.82, Momentum=-0.010%, Volume=1643, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:14:15.471885",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.85,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.85, Open=692.72, Momentum=0.019%, Volume=2188, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:13:19.227859",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.73,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.73, Open=692.82, Momentum=-0.013%, Volume=2114, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:12:16.782946",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.84,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.84, Open=692.79, Momentum=0.007%, Volume=1562, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis (DGS10) | FRED | St. Louis Fed",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:05:16.057303",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.02,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.02, Open=693.05, Momentum=-0.004%, Volume=1619, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:04:16.789767",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.03,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.03, Open=692.99, Momentum=0.006%, Volume=1739, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T04:03:16.973516",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.96,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.96, Open=693.00, Momentum=-0.006%, Volume=810, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T03:55:19.942025",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.995,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.00, Open=692.97, Momentum=0.004%, Volume=566, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T03:54:14.314535",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.04,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.04, Open=693.10, Momentum=-0.009%, Volume=1020, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T03:53:15.657996",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.12,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.12, Open=693.08, Momentum=0.006%, Volume=1932, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T03:52:16.199960",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.09,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.09, Open=693.14, Momentum=-0.007%, Volume=1829, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T03:51:16.541157",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.07,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.07, Open=693.16, Momentum=-0.013%, Volume=1176, Sentiment=20/100, Headlines=Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T03:45:16.436005",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.75,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.75, Open=693.51, Momentum=0.035%, Volume=759, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T03:44:16.031590",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.6,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.60, Open=693.58, Momentum=0.003%, Volume=683, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T03:43:16.517046",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.58,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.58, Open=693.53, Momentum=0.006%, Volume=1202, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T03:42:15.977192",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.485,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.49, Open=693.59, Momentum=-0.015%, Volume=846, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T03:41:18.670679",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.59,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.59, Open=693.53, Momentum=0.009%, Volume=1371, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T03:40:18.889316",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.67,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.67, Open=693.67, Momentum=0.000%, Volume=413, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T03:39:17.998642",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.78,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.78, Open=693.77, Momentum=0.001%, Volume=1245, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T03:38:14.011350",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.79,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.79, Open=693.84, Momentum=-0.007%, Volume=1733, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T03:37:15.966450",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.83,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.83, Open=693.75, Momentum=0.012%, Volume=913, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T03:35:16.503621",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.675,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.67, Open=693.65, Momentum=0.004%, Volume=634, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T03:34:19.303431",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.67,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.67, Open=693.62, Momentum=0.006%, Volume=1337, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T03:33:19.185645",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.63,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.63, Open=693.66, Momentum=-0.005%, Volume=1264, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T03:32:14.881728",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.63,
+      "reason": "Negative news sentiment (30/100) | Snapshot: SPY=693.63, Open=693.38, Momentum=0.037%, Volume=2774, Sentiment=30/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis (DGS10) | FRED | St. Louis Fed",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T03:25:16.482115",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.685,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.68, Open=693.64, Momentum=0.006%, Volume=1579, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T03:24:13.845065",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.59,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.59, Open=693.47, Momentum=0.017%, Volume=966, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T03:23:16.823153",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.45,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.45, Open=693.57, Momentum=-0.017%, Volume=1939, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T03:15:19.766621",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.27,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.27, Open=693.32, Momentum=-0.007%, Volume=2023, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T03:14:15.442141",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.35,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.35, Open=692.91, Momentum=0.064%, Volume=2399, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T03:13:16.315373",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.94,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.94, Open=692.77, Momentum=0.025%, Volume=1226, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Nasdaq 100: Explosive Opportunity or Silent Tech Bubble About to Pop?",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T03:12:17.189451",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.795,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.79, Open=692.65, Momentum=0.021%, Volume=766, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Nasdaq 100: Explosive Opportunity or Silent Tech Bubble About to Pop?",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T03:11:18.375269",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.56,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.56, Open=692.65, Momentum=-0.013%, Volume=346, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Nasdaq 100: Explosive Opportunity or Silent Tech Bubble About to Pop?",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T03:10:17.445869",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.695,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.70, Open=692.86, Momentum=-0.024%, Volume=3729, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Nasdaq 100: Explosive Opportunity or Silent Tech Bubble About to Pop?",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T03:09:20.952736",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.805,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.80, Open=692.80, Momentum=0.001%, Volume=1620, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Nasdaq 100: Explosive Opportunity or Silent Tech Bubble About to Pop?",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T03:05:15.516716",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.775,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.77, Open=692.58, Momentum=0.029%, Volume=1485, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Nasdaq 100: Explosive Opportunity or Silent Tech Bubble About to Pop?",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T03:04:15.826632",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.555,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.55, Open=692.76, Momentum=-0.030%, Volume=809, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Nasdaq 100: Explosive Opportunity or Silent Tech Bubble About to Pop?",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T03:03:17.434749",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.82,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.82, Open=692.50, Momentum=0.046%, Volume=932, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Nasdaq 100: Explosive Opportunity or Silent Tech Bubble About to Pop?",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T03:02:14.742575",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.585,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.59, Open=692.73, Momentum=-0.021%, Volume=2110, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Nasdaq 100: Explosive Opportunity or Silent Tech Bubble About to Pop?",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T03:01:18.507215",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.7,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.70, Open=692.74, Momentum=-0.006%, Volume=362, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Nasdaq 100: Explosive Opportunity or Silent Tech Bubble About to Pop?",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T03:00:13.073545",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.72,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.72, Open=692.73, Momentum=-0.001%, Volume=2047, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Nasdaq 100: Explosive Opportunity or Silent Tech Bubble About to Pop?",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:59:17.325845",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.67,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.67, Open=692.78, Momentum=-0.016%, Volume=1569, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Nasdaq 100: Explosive Opportunity or Silent Tech Bubble About to Pop?",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:58:17.510829",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.82,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.82, Open=692.99, Momentum=-0.025%, Volume=3224, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Nasdaq 100: Explosive Opportunity or Silent Tech Bubble About to Pop?",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:57:15.457217",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.95,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.95, Open=692.99, Momentum=-0.006%, Volume=1098, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:55:20.953558",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.87,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.87, Open=692.83, Momentum=0.006%, Volume=3804, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:54:18.653917",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.82,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.82, Open=692.68, Momentum=0.020%, Volume=1288, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:53:17.658696",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.67,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.67, Open=692.54, Momentum=0.019%, Volume=2428, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:52:13.104411",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.57,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.57, Open=692.45, Momentum=0.017%, Volume=1442, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:45:19.155212",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.4,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.40, Open=692.37, Momentum=0.005%, Volume=3035, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:44:16.436432",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.35,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.35, Open=692.45, Momentum=-0.014%, Volume=3164, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:43:16.070318",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.32,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.32, Open=692.27, Momentum=0.007%, Volume=2580, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:42:17.533564",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.21,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.21, Open=692.33, Momentum=-0.017%, Volume=1631, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:41:16.307146",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.32,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.32, Open=692.70, Momentum=-0.055%, Volume=2980, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:40:15.719981",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.78,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.78, Open=692.71, Momentum=0.010%, Volume=1191, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:39:28.218066",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.69,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.69, Open=692.50, Momentum=0.027%, Volume=1484, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:38:23.921144",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.52,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.52, Open=692.46, Momentum=0.009%, Volume=3047, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:35:18.047617",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.39,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.39, Open=692.48, Momentum=-0.013%, Volume=2739, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:34:19.543918",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.51,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.51, Open=692.52, Momentum=-0.001%, Volume=2394, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:33:14.576697",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.48,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.48, Open=692.54, Momentum=-0.009%, Volume=2278, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:32:14.663484",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.6,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.60, Open=692.69, Momentum=-0.013%, Volume=1882, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:31:14.482114",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.64,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.64, Open=692.80, Momentum=-0.023%, Volume=4087, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:30:20.074453",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.71,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.71, Open=692.77, Momentum=-0.009%, Volume=1799, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:29:19.726990",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.84,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.84, Open=692.57, Momentum=0.039%, Volume=1229, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:28:14.385488",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.58,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.58, Open=692.17, Momentum=0.059%, Volume=1275, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:25:18.447907",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.24,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.24, Open=692.13, Momentum=0.016%, Volume=1818, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:24:27.327038",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.17,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.17, Open=692.16, Momentum=0.001%, Volume=1603, Sentiment=20/100, Headlines=House Defeats Republican Bid to Block Votes on Trump\u2019s Tariffs - The New York Times | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:23:16.931256",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.225,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.23, Open=691.90, Momentum=0.047%, Volume=2619, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:22:16.937328",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 691.9,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=691.90, Open=691.89, Momentum=0.001%, Volume=1402, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:21:18.926025",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 691.89,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=691.89, Open=692.05, Momentum=-0.023%, Volume=728, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:20:16.531152",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.1,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.10, Open=692.43, Momentum=-0.048%, Volume=9121, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:19:17.140917",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.42,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.42, Open=692.24, Momentum=0.026%, Volume=7844, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:18:20.045623",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.21,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.21, Open=692.16, Momentum=0.007%, Volume=5119, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:17:19.776904",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.16,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.16, Open=691.47, Momentum=0.100%, Volume=6045, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:16:26.989159",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 691.5,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=691.50, Open=691.55, Momentum=-0.007%, Volume=11926, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:15:42.982231+08:00",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 691.66,
+      "reason": "Signal engine score=40/100, confidence=60%. Flat momentum -0.01%; Low volume confirmation; News sentiment negative 34/100 | Snapshot: SPY=691.66, Open=691.73, High=691.73, Low=691.52, Vol=3582, PositionQty=0.0. Headlines: Tariff bills across U.S. states mount as affordability and Trump head for midterm elections showdown | The truth about Trump's tariff disaster that's bleeding America's economy and alienating allies - India Today | Stock Market Live February 11, 2026: S&P 500 (SPY) Rocketing on January Jobs Report - 24/7 Wall St. | Stock Market Today: SPY, QQQ Stall on Lackluster Retail Sales ahead of Nonfarm Payrolls - TipRanks.com. ExecutionGate: trade only if confidence>70. No trade executed.",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:14:16.805726",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 691.87,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=691.87, Open=691.73, Momentum=0.020%, Volume=2213, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:13:16.669860",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 691.8,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=691.80, Open=691.79, Momentum=0.001%, Volume=1284, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:12:17.556995",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 691.87,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=691.87, Open=691.70, Momentum=0.025%, Volume=1527, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:11:17.212847",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 691.74,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=691.74, Open=692.00, Momentum=-0.038%, Volume=5221, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:10:18.652271",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.04,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.04, Open=692.26, Momentum=-0.032%, Volume=1734, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:09:18.534643",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.26,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.26, Open=692.29, Momentum=-0.004%, Volume=5983, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:08:19.352377",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.28,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.28, Open=692.19, Momentum=0.013%, Volume=1774, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:05:14.405101",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.61,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.61, Open=692.72, Momentum=-0.016%, Volume=3463, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:04:18.840801",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.81,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.81, Open=692.67, Momentum=0.020%, Volume=3362, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:03:25.341084",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.72,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.72, Open=692.55, Momentum=0.025%, Volume=5797, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:02:16.958581",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.54,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.54, Open=692.85, Momentum=-0.045%, Volume=2124, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:01:17.862199",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.85,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.85, Open=692.75, Momentum=0.014%, Volume=2370, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T02:00:19.143056",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.775,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.77, Open=692.75, Momentum=0.004%, Volume=2426, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:59:22.634754",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.735,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.74, Open=692.83, Momentum=-0.013%, Volume=4476, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:58:26.505796",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.79,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.79, Open=692.97, Momentum=-0.026%, Volume=1849, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:55:17.136126",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.545,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.54, Open=693.47, Momentum=0.011%, Volume=739, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:54:15.561250",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.43,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.43, Open=693.56, Momentum=-0.019%, Volume=2216, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:53:18.585823",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.595,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.60, Open=693.77, Momentum=-0.025%, Volume=2159, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:52:16.757680",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.73,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.73, Open=693.57, Momentum=0.023%, Volume=2348, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:51:16.322498",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.61,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.61, Open=693.73, Momentum=-0.017%, Volume=1532, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:50:22.069554",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.75,
+      "reason": "Negative news sentiment (30/100) | Snapshot: SPY=693.75, Open=693.74, Momentum=0.001%, Volume=2186, Sentiment=30/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis (DGS10) | FRED | St. Louis Fed",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:49:18.232513",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.67,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.67, Open=693.62, Momentum=0.008%, Volume=1787, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:48:17.024409",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.63,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.63, Open=693.62, Momentum=0.002%, Volume=2697, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:45:15.307380",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.75,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.75, Open=693.65, Momentum=0.014%, Volume=1814, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:44:15.241338",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.76,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.76, Open=693.54, Momentum=0.031%, Volume=1994, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:43:16.708748",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.59,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.59, Open=693.43, Momentum=0.023%, Volume=1641, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:42:14.871249",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.475,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.48, Open=693.57, Momentum=-0.014%, Volume=1481, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:41:28.786030",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.535,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.53, Open=693.40, Momentum=0.019%, Volume=1357, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:40:17.813516",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.22,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.22, Open=693.27, Momentum=-0.008%, Volume=3407, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:39:19.286505",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.23,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.23, Open=693.33, Momentum=-0.014%, Volume=1331, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:35:17.102869",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.26,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.26, Open=693.50, Momentum=-0.034%, Volume=2439, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:34:37.901150",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.46,
+      "reason": "Negative news sentiment (30/100) | Snapshot: SPY=693.46, Open=693.22, Momentum=0.035%, Volume=767, Sentiment=30/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis (DGS10) | FRED | St. Louis Fed",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:33:17.281649",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.16,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.16, Open=693.36, Momentum=-0.029%, Volume=1335, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:32:20.188382",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.36,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.36, Open=693.29, Momentum=0.010%, Volume=820, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:31:20.480412",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.295,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.29, Open=693.60, Momentum=-0.044%, Volume=908, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:30:18.241926",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.52,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.52, Open=693.59, Momentum=-0.010%, Volume=688, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:29:23.084912",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.59,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.59, Open=693.58, Momentum=0.001%, Volume=1679, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:28:18.959628",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.475,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.48, Open=693.75, Momentum=-0.039%, Volume=3078, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:25:17.178727",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.11,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.11, Open=693.09, Momentum=0.003%, Volume=1637, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:24:19.489455",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.915,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.91, Open=692.97, Momentum=-0.008%, Volume=2991, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:23:20.940624",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.92,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.92, Open=692.53, Momentum=0.056%, Volume=1832, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:22:17.462724",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.455,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.46, Open=692.31, Momentum=0.021%, Volume=1828, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:21:19.050809",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.25,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.25, Open=692.60, Momentum=-0.051%, Volume=1483, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:20:14.844038",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.58,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.58, Open=692.48, Momentum=0.015%, Volume=2237, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:19:18.275931",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.55,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.55, Open=692.85, Momentum=-0.043%, Volume=3370, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:18:18.224643",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.825,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.83, Open=692.80, Momentum=0.003%, Volume=1653, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis (DGS10) | FRED | St. Louis Fed",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:15:16.792780",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.23,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.23, Open=692.50, Momentum=-0.039%, Volume=878, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:14:16.598306",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.48,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.48, Open=692.50, Momentum=-0.003%, Volume=3327, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:13:17.147430",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.51,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.51, Open=692.09, Momentum=0.061%, Volume=2490, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:12:17.181690",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.115,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.12, Open=692.31, Momentum=-0.028%, Volume=1145, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:11:17.823472",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.28,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.28, Open=692.38, Momentum=-0.014%, Volume=761, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:10:15.579319",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.35,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.35, Open=692.07, Momentum=0.040%, Volume=1817, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:09:16.476043",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.08,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.08, Open=691.87, Momentum=0.030%, Volume=1171, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:05:23.259205",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 691.63,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=691.63, Open=691.79, Momentum=-0.023%, Volume=1640, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:04:17.666586",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 691.71,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=691.71, Open=691.73, Momentum=-0.003%, Volume=1627, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:03:15.536567",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 691.775,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=691.77, Open=691.64, Momentum=0.019%, Volume=2457, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:02:15.780770",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 691.66,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=691.66, Open=692.04, Momentum=-0.055%, Volume=1594, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:01:18.801737",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.01,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.01, Open=692.01, Momentum=-0.001%, Volume=929, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T01:00:19.693395",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.03,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.03, Open=692.15, Momentum=-0.017%, Volume=749, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:59:25.819252",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.145,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.14, Open=692.24, Momentum=-0.013%, Volume=2266, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:58:16.552474",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.47,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.47, Open=692.38, Momentum=0.014%, Volume=1221, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:57:17.593854",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.35,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.35, Open=692.70, Momentum=-0.051%, Volume=1585, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:55:19.880610",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.78,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.78, Open=692.85, Momentum=-0.010%, Volume=1278, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:54:19.103332",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.82,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.82, Open=692.94, Momentum=-0.017%, Volume=1747, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:53:18.275516",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.97,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.97, Open=692.69, Momentum=0.040%, Volume=3089, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:52:14.957785",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.76,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.76, Open=692.52, Momentum=0.035%, Volume=2747, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:51:18.133177",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.505,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.50, Open=692.57, Momentum=-0.009%, Volume=849, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:50:28.541804",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.6,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.60, Open=692.79, Momentum=-0.027%, Volume=733, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:49:21.574734",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.85,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.85, Open=693.03, Momentum=-0.026%, Volume=2361, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:48:16.087913",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.08,
+      "reason": "Negative news sentiment (30/100) | Snapshot: SPY=693.08, Open=693.22, Momentum=-0.020%, Volume=1486, Sentiment=30/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis (DGS10) | FRED | St. Louis Fed",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:47:23.311576",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.18,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.18, Open=692.98, Momentum=0.029%, Volume=2356, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:45:17.578792",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.005,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.00, Open=692.85, Momentum=0.022%, Volume=1221, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:44:18.053840",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.955,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.96, Open=693.12, Momentum=-0.024%, Volume=946, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:43:19.872285",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.14,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.14, Open=693.11, Momentum=0.004%, Volume=1246, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:42:20.236789",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.09,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.09, Open=693.31, Momentum=-0.032%, Volume=2692, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:41:19.584210",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.23,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.23, Open=692.79, Momentum=0.063%, Volume=4761, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:40:21.927220",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.715,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.72, Open=692.39, Momentum=0.047%, Volume=990, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:39:14.298998",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.59,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.59, Open=692.17, Momentum=0.061%, Volume=1045, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:38:18.386849",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.2,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.20, Open=692.14, Momentum=0.009%, Volume=1246, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:35:17.958698",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.345,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.35, Open=692.45, Momentum=-0.014%, Volume=2826, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:34:23.601858",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.56,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.56, Open=691.95, Momentum=0.088%, Volume=1318, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:33:21.066073",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 691.87,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=691.87, Open=692.08, Momentum=-0.030%, Volume=2751, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:32:20.680114",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.17,
+      "reason": "Negative news sentiment (30/100) | Snapshot: SPY=692.17, Open=692.23, Momentum=-0.009%, Volume=787, Sentiment=30/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis (DGS10) | FRED | St. Louis Fed",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:25:15.554442",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.29,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.29, Open=693.29, Momentum=0.000%, Volume=1254, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:24:16.435786",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.21,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.21, Open=693.24, Momentum=-0.004%, Volume=2565, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:23:13.887546",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 693.21,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=693.21, Open=692.82, Momentum=0.056%, Volume=2773, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:22:17.450664",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.89,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.89, Open=692.92, Momentum=-0.005%, Volume=1051, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:21:15.780829",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.96,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.96, Open=692.85, Momentum=0.016%, Volume=3322, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:20:26.823531",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.775,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.77, Open=692.52, Momentum=0.036%, Volume=942, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:19:20.898863",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.49,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.49, Open=692.66, Momentum=-0.025%, Volume=1957, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:15:17.290415",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.72,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.72, Open=692.81, Momentum=-0.013%, Volume=1276, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:14:19.052473",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.65,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.65, Open=692.59, Momentum=0.009%, Volume=1339, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:13:18.662260",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.565,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.57, Open=692.37, Momentum=0.028%, Volume=848, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:12:23.433454",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.39,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.39, Open=692.25, Momentum=0.020%, Volume=1598, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:11:21.962918",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.3,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.30, Open=691.55, Momentum=0.108%, Volume=2477, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:10:19.233335",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 691.47,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=691.47, Open=691.64, Momentum=-0.025%, Volume=915, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:09:25.332507",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 691.62,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=691.62, Open=691.50, Momentum=0.018%, Volume=1073, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:08:17.124291",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 691.68,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=691.68, Open=691.77, Momentum=-0.013%, Volume=1198, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:07:21.755266",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 691.745,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=691.75, Open=691.74, Momentum=0.001%, Volume=1058, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-12T00:02:35.963460",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.53,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.53, Open=692.50, Momentum=0.005%, Volume=329, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-11T23:59:16.546924",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.43,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.43, Open=692.22, Momentum=0.030%, Volume=3070, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-11T23:58:20.555419",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.315,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.32, Open=692.47, Momentum=-0.022%, Volume=3707, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-11T23:55:17.597413",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.51,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.51, Open=692.33, Momentum=0.027%, Volume=2086, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-11T23:54:20.001682",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.14,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=692.14, Open=691.77, Momentum=0.053%, Volume=3212, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-11T23:53:18.389622",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 691.82,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=691.82, Open=691.24, Momentum=0.084%, Volume=1622, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-11T23:52:19.252195",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 691.19,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=691.19, Open=690.62, Momentum=0.083%, Volume=1996, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-11T23:45:17.378634",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 691.3,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=691.30, Open=691.00, Momentum=0.043%, Volume=987, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-11T23:44:18.694687",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 690.875,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=690.88, Open=691.38, Momentum=-0.073%, Volume=2597, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-11T23:43:15.061649",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 691.375,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=691.38, Open=691.37, Momentum=0.001%, Volume=1172, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-11T23:42:23.465876",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 691.425,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=691.42, Open=691.58, Momentum=-0.022%, Volume=2187, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-11T23:41:22.452863",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 691.57,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=691.57, Open=691.36, Momentum=0.031%, Volume=3285, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-11T23:40:17.281898",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 691.335,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=691.34, Open=691.12, Momentum=0.032%, Volume=2085, Sentiment=20/100, Headlines=Trump tariffs live updates: Trump weighs quitting USMCA as tariffs face House rebuke | Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-11T23:35:15.526156",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 690.775,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=690.77, Open=690.47, Momentum=0.045%, Volume=1762, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost the average American household $1,000 last year - The Mirror US | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-11T23:34:18.864803",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 690.29,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=690.29, Open=690.63, Momentum=-0.050%, Volume=4235, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost the average American household $1,000 last year - The Mirror US | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-11T23:33:19.713315",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 690.69,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=690.69, Open=690.43, Momentum=0.037%, Volume=5624, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost the average American household $1,000 last year - The Mirror US | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-11T23:32:15.974618",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 690.445,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=690.45, Open=689.92, Momentum=0.075%, Volume=4044, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost the average American household $1,000 last year - The Mirror US | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-11T23:31:15.162237",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 689.76,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=689.76, Open=689.73, Momentum=0.004%, Volume=6511, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost the average American household $1,000 last year - The Mirror US | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-11T23:30:18.136194",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 689.8,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=689.80, Open=689.96, Momentum=-0.022%, Volume=3280, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost the average American household $1,000 last year - The Mirror US | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-11T23:25:28.571690",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 689.57,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=689.57, Open=689.98, Momentum=-0.059%, Volume=2515, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost the average American household $1,000 last year - The Mirror US | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-11T23:24:17.109812",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 690.03,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=690.03, Open=690.23, Momentum=-0.029%, Volume=1443, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost the average American household $1,000 last year - The Mirror US | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-11T23:23:23.297923",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 690.305,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=690.30, Open=690.38, Momentum=-0.011%, Volume=3480, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost the average American household $1,000 last year - The Mirror US | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-11T23:22:22.340583",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 690.395,
+      "reason": "Negative news sentiment (20/100) | Snapshot: SPY=690.39, Open=690.16, Momentum=0.034%, Volume=3294, Sentiment=20/100, Headlines=Trump Tariffs To Get The Green Light From Supreme Court? Here's What The Prediction Market Thinks | Trump's tariffs cost the average American household $1,000 last year - The Mirror US | Recession odds fade according to prediction markets | Seeking Alpha",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-11T23:20:46.544419",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 690.79,
+      "reason": "Intraday momentum -0.074% (price 690.79 vs open 691.30); Momentum neutral band (no score change); News sentiment neutral 50/100; Volume light 2,526 (0); No trade executed",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-11T23:11:40.222970+08:00",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.64,
+      "reason": "time=2026-02-11T23:11:40.222970+08:00; signal=HOLD; confidence=50; market={'price': 692.64}; sentiment=20; headlines=\"Tariff bill in U.S. states hits $200 billion as affordability and Trump head into midterms showdown | The truth about Trump's tariff disaster that's bleeding America's economy and alienating allies - India Today | Recession odds fade according to prediction markets | Seeking Alpha\"; reasoning=Negative news sentiment (20/100); execution=No trade executed (HOLD / conviction below threshold).",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-11T22:54:44.983062+08:00",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 695.31,
+      "reason": "time=2026-02-11T22:54:44.983062+08:00; signal=HOLD; confidence=51; score=53; market={'price': 695.31, 'open': 695.3, 'high': 695.31, 'low': 694.9, 'volume': 1611}; sentiment=50; headlines=['Stock Market Today: SPY, QQQ Stall on Lackluster Retail Sales ahead of Nonfarm Payrolls - TipRanks.com', 'SPY (State Street SPDR S&P 500 ETF Trust) \u2013 Technical Charts and Market Data \u2013 TrendSpider', '2 new voting Fed members make case for holding interest rates steady']; factors=Intraday momentum neutral (0.00%) | News sentiment mixed (50/100) | Controlled volatility (0.06%) | Low volume (1,611); execution=No trade executed.",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-11T22:50:26.007225",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 695.65,
+      "reason": "time=2026-02-11T22:50:26.007225; signal=HOLD; confidence=50; decision_reason=Negative news sentiment (20/100); spy_price=695.65; volume=1151; sentiment=20; headlines=Tariff bill in U.S. states hits $200 billion as affordability and Trump head into midterms showdown | The truth about Trump's tariff disaster that's bleeding America's economy and alienating allies - India Today | Recession odds fade according to prediction markets | Seeking Alpha; rule=HOLD->no trade, silent mode",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-11T22:20:31.992640",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 696.18,
+      "reason": "time=2026-02-11T22:20:31.992640; signal=HOLD; confidence=50; decision_reason=Negative news sentiment (20/100); spy_price=696.18; sentiment=20; headlines=The truth about Trump's tariff disaster that's bleeding America's economy and alienating allies - India Today | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News | Recession odds fade according to prediction markets | Seeking Alpha; rule=HOLD->no trade, silent mode",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-11T22:07:47.397021+08:00",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 696.37,
+      "reason": "score=40; Momentum muted +0.00% | News sentiment negative (38/100); headlines=Stock Market Today: SPY, QQQ Stall on Lackluster Retail Sales ahead of Nonfarm Payrolls - TipRanks.com | SPY (State Street SPDR S&P 500 ETF Trust) \u2013 Technical Charts and Market Data \u2013 TrendSpider | The truth about Trump's tariff disaster that's bleeding America's economy and alienating allies - India Today | Trump's tariffs cost households $1,000 in 2025, set to rise to $1,300 in 2026: Research group finds | Today News",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-11T21:54:45.816955+08:00",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 695.75,
+      "reason": "time=2026-02-11T21:54:45.816955+08:00; signal_model_score=40; confidence=50; signal=HOLD; market_scan=Alpaca latest SPY bar c=695.75, o=695.75, h=695.75, l=695.75, v=70.0; news_headlines=US Bonds Surge as Weak Retail Sales Boost Fed Rate-Cut Bets || U.S. jobs data ahead; Ford\u2019s $900 million tariff hit - what\u2019s moving markets By Investing.com || S&P 500 (SP500) | FRED | St. Louis Fed || Trump tariffs live updates: Trump weighs quitting USMCA as tariffs ... || Tariff bill in U.S. states hits $200 billion as affordability and Trump head into midterms showdown || The truth about Trump's tariff disaster that's bleeding America's economy and alienating allies - India Today; news_sentiment=26; factors=Momentum neutral: 0.000% vs open ; News sentiment risk-off (26/100); execution=not attempted",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-11T21:22:40.401044+08:00",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.94,
+      "reason": "Signal model score=50/100 -> HOLD (confidence=50%). Inputs: SPY=692.94, open=692.94, momentum=0.00%, volume=120, sentiment=58/100. News sample: Stock Market Today: SPY, QQQ Stall on Lackluster Retail Sales ahead of Nonfarm Payrolls - TipRanks.com | Stock Market Live February 10, 2026: S&P 500 (SPY) Down from Record Highs - 24/7 Wall St. | Market Yield on U.S. Treasury Securities at 10-Year Constant Maturity, Quoted on an Investment Basis (DGS10) | FRED | St. Louis Fed. Rationale: Momentum muted (0.00%), no edge; News sentiment neutral (58/100); Volume light/moderate (120).",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-11T21:09:23.428827",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 692.11,
+      "reason": "HOLD: conviction below threshold. Inputs \u2014 SPY last: 692.11, sentiment: 20/100, headline risk elevated (tariff/trade-war related coverage), low tape confirmation (latest volume snapshot modest). Risk rule: execute only when confidence >70%. Action: no order sent to Alpaca.",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-11 14:36:12",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 695.92,
+      "reason": "Negative news sentiment (20/100)",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-11 13:53:48",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 695.75,
+      "reason": "Decision score=40 (start 50, momentum neutral: SPY close/open change not beyond \u00b10.5%; sentiment penalty -10 from Brave headlines sentiment 20/100 driven by tariff/recession language; volume not confirmed (latest bar volume 70 << 50,000,000 threshold). Confidence fixed at 50 for HOLD band (score 31-69). No order sent per >70 conviction rule.",
+      "pnl": 0.0
+    },
+    {
+      "timestamp": "2026-02-11 13:38:41",
+      "action": "HOLD",
+      "symbol": "SPY",
+      "qty": 0,
+      "price": 695.42,
+      "reason": "Decision HOLD (50% confidence). Momentum weak/neutral; sentiment bearish at 20/100 due tariff headlines; no high-conviction edge >70%; risk-first rule blocks trade execution.",
+      "pnl": 0.0
+    }
+  ]
+}
